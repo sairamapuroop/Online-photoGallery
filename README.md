@@ -1,3 +1,24 @@
+Online-Photo Gallery App (React + FireBase):
+This is a project which provides the functionality of uploading photos which are important or useful to the cloud. The main focus of this project is that you can upload png/jpeg files with ease.
+
+This App uses various technologies and frameworks to provide the best possible UserExperience to the client and provide a lot of functionality to the user.
+
+This is a Full-Stack App which uses :
+1. React - FrontEnd
+2. FireBase - Backend
+
+1. React : This App specifically uses the important components of the React library like -
+   React Components; JavaScript - ES6(spread operator, destructuring, arrow functions);
+   React Hooks - useState,useEffect; 
+   Custom React Hooks - useStorage, useFireStore;
+   A special React based Framework has been used for animation known as Framer Motion;
+The React code has been written elegantly by keeping the code reusability in mind.   
+
+2. FireBase : Storage and Database Functionality of the firebase has been used in the project.
+
+###########################################################################################################################################################
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
