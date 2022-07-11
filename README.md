@@ -1,10 +1,10 @@
-                                                            ONLINE PHOTO GALLERY APP: 
-                                                               (React + FireBase)
+                            ONLINE PHOTO GALLERY APP: 
+                            (React + FireBase)
 This is a project which provides the functionality of uploading photos which are important or useful to the cloud. The main focus of this project is that you can upload png/jpeg files with ease.
 
 This App uses various technologies and frameworks to provide the best possible UserExperience to the client and provide a lot of functionality to the user.
 
-                                 This is a Full-Stack App which uses :  React - FrontEnd; FireBase - Backend;
+This is a Full-Stack App which uses :  React - FrontEnd; FireBase - Backend;
 
 1. React : This App specifically uses the important components of the React library like -
    React Components; JavaScript - ES6(spread operator, destructuring, arrow functions);
